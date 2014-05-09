@@ -10,7 +10,7 @@ package tetris_te;
  *
  * @author TD
  */
-public class Tetris_Te {
+public class Main {
 
     /**
      * @param args the command line arguments
